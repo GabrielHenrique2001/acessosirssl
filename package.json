@@ -1,4 +1,9 @@
 {
-  "name": "acessosirssl",
-  "version": "1.0.0"
+  "name": "acessos-irssl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  }
 }
